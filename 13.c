@@ -16,5 +16,5 @@ int main() {
 }
 
 OUTPUT:
-ame = Kishore
-Description: Kishore is a engineer graduate
+ame = Kiran
+Description: Kiran is a engineer graduate
